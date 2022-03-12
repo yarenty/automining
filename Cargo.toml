@@ -1,0 +1,11 @@
+[workspace]
+name = "automining"
+version = "0.1.0"
+edition = "2021"
+
+members = [
+    "mine",
+    "utils",
+    "ml",
+]
+
